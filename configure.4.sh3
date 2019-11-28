@@ -1,0 +1,1 @@
+ARCH=sh CROSS_COMPILE=sh3-linux- HOSTCC=gcc CC=sh3-linux-gcc RANLIB=sh3-linux-ranlib AR=sh3-linux-ar YACC=/opt/Embedix/usr/bin/bison -y ./configure --host=i386 --target=sh
